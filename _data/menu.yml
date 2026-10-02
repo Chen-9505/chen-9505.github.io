@@ -1,7 +1,8 @@
 entries:
-  - title: Chan's blog
+  - title: info
     entries:
-      - title: 技术、单片机、Arduino 与编程的记录
+      - title: 技术、ESP32、Arduino 与编程的记录
+      - title: 个人记录
   - title: all posts
     post_list:
       limit: 5
@@ -10,5 +11,5 @@ entries:
       show_more_url: archive.html
   - title: about
     url: about.html
-  - title: rss
-    url: feed.xml
+  # - title: rss
+  #   url: feed.xml
